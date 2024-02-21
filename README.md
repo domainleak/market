@@ -53,7 +53,6 @@ giełdy domen
 
 #### Strategia utrzymania domen
 + niskie koszty
-+ 
 
 #### Strategia wyprzedaży
 
